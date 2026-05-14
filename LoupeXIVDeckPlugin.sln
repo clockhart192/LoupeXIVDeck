@@ -7,6 +7,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD08438B-1C4A-4FFA-A856-D5285D570BB8}"
 	ProjectSection(SolutionItems) = preProject
 		.vscode\launch.json = .vscode\launch.json
+		README.md = README.md
 		.vscode\tasks.json = .vscode\tasks.json
 	EndProjectSection
 EndProject

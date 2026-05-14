@@ -1,12 +1,10 @@
-### ⚠️ This project is not maintained anymore.
-It will not work with current versions of the LoupeDeck Software, FFXIV or XIVDeck.
-
-If someone would like to continue development on this repo, feel free to contact me.
+### ⚠️ This is a personal Project
+Forked from another user, download at your own risk, I'll work on it later if I have the energy.
 
 
 
 
-![LoupeFFXIVDeckIcon](LoupeXIVDeck/Resources/Icons/icon_256.png)
+![LoupeFFXIVDeckIcon](LoupeXIVDeck/package/icon_256x256.png)
 
 # LoupeXIVDeck
 

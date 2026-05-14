@@ -18,21 +18,21 @@
     {
       "label": "Package Plugin",
       "type": "shell",
-      "command": "logiplugintool pack ./bin/Release ./Example.lplug4",
+      "command": "logiplugintool pack ./bin/Release ./LoupeXIVDeck.lplug4",
       "group": "none",
       "problemMatcher": []
     },
     {
       "label": "Install Plugin",
       "type": "shell",
-      "command": "logiplugintool install ./Example.lplug4",
+      "command": "logiplugintool install ./LoupeXIVDeck.lplug4",
       "group": "none",
       "problemMatcher": []
     },
     {
       "label": "Uninstall Plugin",
       "type": "shell",
-      "command": "logiplugintool uninstall Example",
+      "command": "logiplugintool uninstall LoupeXIVDeck",
       "group": "none",
       "problemMatcher": []
     }
